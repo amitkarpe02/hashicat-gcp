@@ -6,6 +6,4 @@ module "vpc" {
     network_name = "ak-vpc"
 
     shared_vpc_host = false
-
 }
-
